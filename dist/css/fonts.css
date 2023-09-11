@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Ruberoid-Bold";
+    src: url(../fonts/Ruberoid-Bold.ttf);
+}
+
+@font-face {
+    font-family: "Ruberoid-ExtraBold";
+    src: url(../fonts/Ruberoid-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: "Ruberoid-Medium";
+    src: url(../fonts/Ruberoid-Medium.ttf);
+}
+
+@font-face {
+    font-family: "Ruberoid-Regular";
+    src: url(../fonts/Ruberoid-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Ruberoid-SemiBold";
+    src: url(../fonts/Ruberoid-SemiBold.ttf);
+}

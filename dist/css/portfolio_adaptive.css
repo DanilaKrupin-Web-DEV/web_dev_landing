@@ -1,0 +1,34 @@
+@media (max-width: 1312px) {
+  .portfolio_inner {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+  }
+  .portfolio_text {
+    margin-top: 0;
+  }
+  .mySwiper_portfolio {
+    display: block;
+    position: relative;
+    background-color: red;
+    width: 50vw;
+    justify-content: center;
+    align-items: center;
+    left: auto;
+    top: auto;
+  }
+  .swiper-wrapper {
+    transform: none;
+  }
+  .portfolio_slider-item {
+    max-width: 42vw;
+    height: auto;
+  }
+  .portfolio_slider-item .portfolio_item-image {
+    max-width: inherit;
+    height: auto;
+  }
+  .mySwiper_portfolio .swiper-slide {
+    margin: 0;
+  }
+}
